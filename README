@@ -8,11 +8,11 @@ We also provide some scripts for illustrated use.
 If you refer this code, please cite the follow paper. 
 
 @inproceedings{lian20personalized,
-	author = {Lian, Defu and Liu, Qi and Chen, Enhong},
-	title = {Personalized Ranking with Importance Sampling},
-	booktitle = {Proceedings of The Web Conference 2020},
-	pages = {1093–1103},
-	year = {2020},
-	location = {Taipei, Taiwan},
-	publisher = {Association for Computing Machinery},
+    author = {Lian, Defu and Liu, Qi and Chen, Enhong},
+    title = {Personalized Ranking with Importance Sampling},
+    booktitle = {Proceedings of The Web Conference 2020},
+    pages = {1093–1103},
+    year = {2020},
+    location = {Taipei, Taiwan},
+    publisher = {Association for Computing Machinery},
 }
