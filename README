@@ -1,0 +1,26 @@
+# PRIS
+This is the source code for our www 2020 paper.
+
+The data input is a user-item matrix, stored as mat file.
+
+We also provide some scripts for illustrated use
+
+
+If you refer this code, please cite the follow paper. 
+
+@inproceedings{10.1145/3366423.3380187,
+author = {Lian, Defu and Liu, Qi and Chen, Enhong},
+title = {Personalized Ranking with Importance Sampling},
+year = {2020},
+isbn = {9781450370233},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3366423.3380187},
+doi = {10.1145/3366423.3380187},
+booktitle = {Proceedings of The Web Conference 2020},
+pages = {1093–1103},
+numpages = {11},
+keywords = {Negative Sampling, Implicit Feedback, Personalized Ranking},
+location = {Taipei, Taiwan},
+series = {WWW ’20}
+}
